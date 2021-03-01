@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AddBookPage.qml</file>
+        <file>RemoveBookPage.qml</file>
+    </qresource>
+</RCC>
